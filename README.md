@@ -109,25 +109,11 @@ refresh the page.
 
 Node.js was selected because of its event-driven architecture
 and its suitability for applications that maintain persistent
-connections and process asynchronous events.
-
-It also allows the backend and frontend to use JavaScript,
-reducing the number of languages required.
+connections and process asynchronous events and as I'm a lot more familiar with JS than any other language.
 
 ### Why discord.js?
 
-Discord provides both REST and Gateway APIs.
-
-Although it is possible to implement a Discord integration
-using these APIs directly, doing so would require managing
-authentication, Gateway events, connection state, and
-other implementation details.
-
-discord.js abstracts much of that complexity.
-
-This allows the application to focus on processing and
-delivering messages instead of implementing the Discord
-protocol.
+I tried to use the documentation for my first discord bot as I've never done this, however, it took a toll for the worse and I was unable to understand the entire documentation in a timely manner, so I went with discord.js which the documentation was more digestible.
 
 ### Why Express?
 
