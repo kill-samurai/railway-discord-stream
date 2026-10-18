@@ -7,16 +7,6 @@ The application uses Node.js, Express, discord.js, and
 Server-Sent Events (SSE) to display new Discord messages
 without requiring users to refresh their browsers.
 
-## Live Demo
-
-**Application:** [Railway deployment URL]
-
-**GitHub:** [GitHub repository URL]
-
-**Discord Server:** Railway Test Server
-
-**Monitored Channel:** #live-feed
-
 ## 1. Project Overview
 
 The purpose of this project is to build a Discord bot that
